@@ -10,7 +10,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **ImageAI Pro** é uma ferramenta CLI interativa desenvolvida pela **Evolucy Digital** para processamento em lote de imagens com o apoio de inteligência artificial. Através de um terminal com interface profissional e rica em cores, o usuário pode remover marcas d'água de imagens utilizando o modelo de deep learning **LaMa** (via IOPaint), e renomear imagens automaticamente com nomes criativos ou descritivos gerados pelo **GPT-4o Vision** via OpenRouter.
+O **ImageAI Pro** é uma ferramenta CLI interativa desenvolvida por **Vítor Gomes** para processamento em lote de imagens com o apoio de inteligência artificial. Através de um terminal com interface profissional e rica em cores, o usuário pode remover marcas d'água de imagens utilizando o modelo de deep learning **LaMa** (via IOPaint), e renomear imagens automaticamente com nomes criativos ou descritivos gerados pelo **GPT-4o Vision** via OpenRouter.
 
 ---
 
