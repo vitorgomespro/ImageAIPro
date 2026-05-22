@@ -1,0 +1,8 @@
+iopaint
+opencv-python
+numpy
+rich
+requests
+pyinstaller
+pyfiglet
+python-dotenv
